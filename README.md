@@ -19,12 +19,13 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 🤹 Fun fact: I mostly like to apply my knowledge to **real-life projects**.
 - ☕ **Coffeeholic** & **Music Lover**.
-- 📫 How to reach me **nmsafranmhd@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XY5C-5DRVM6Ep2OTkT8Z0YRL4aV4Y0ZQ/view?usp=sharing](https://drive.google.com/file/d/1XY5C-5DRVM6Ep2OTkT8Z0YRL4aV4Y0ZQ/view?usp=sharing)
-- 😎 How to reach me? [**Click here to view Portfolio**](https://nm-safran.github.io/)
+- 📫 How to reach me: **nmsafranmhd@gmail.com**
+- 😎 Portfolio: [**nm-safran.github.io**](https://nm-safran.github.io/)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1XY5C-5DRVM6Ep2OTkT8Z0YRL4aV4Y0ZQ/view?usp=sharing)
+
   
 <p align="center">
-  <a href="quantumcoderpro.github.io">
+  <a href="https://nm-safran.github.io/">
     <img src="portfolio.png" width="600" height="auto" style="border-radius: 50%;" />
   </a>
 </p>
@@ -34,11 +35,10 @@
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- Add your blog posts here -->
 
 ## 🎯 Let's Keep in Touch:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumcoderpro&label=Profile%20views&color=0e75b6&style=flat" alt="quantumcoderpro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nm-safran&label=Profile%20views&color=0e75b6&style=flat" alt="nm-safran" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/safrancoderpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/safrancoderpro" height="30" width="40" /></a>
@@ -54,26 +54,20 @@
 <a href="/https://dashboard.rss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dashboard.rss.com/" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <a href="https://github.com/nm-safran"><img src="https://github-readme-stats.vercel.app/api?username=nm-safran&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="nm-safran's GitHub stats" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantumcoderpro" alt="quantumcoderpro" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/nm-safran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nm-safran&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a> </p>
 
+<p align="left"> <a href="https://github.com/nm-safran"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nm-safran&bg_color=000000&color=facc15&line=0891b2&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/QuantumCoderPro"><img src="https://github-readme-stats.vercel.app/api?username=QuantumCoderPro&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="QuantumCoderPro's GitHub stats" /></a>
-
-<a href="http://www.github.com/QuantumCoderPro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumCoderPro&stroke=facc15&background=000000&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-<a href="http://www.github.com/QuantumCoderPro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=QuantumCoderPro&bg_color=000000&color=facc15&line=0891b2&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/QuantumCoderPro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumCoderPro&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://github.com/nm-safran" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-safran&langs_count=10&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.b8621d221ed49bf3bf0abcb7e7efee87?rik=%2fVxsz46vZmIy9w&pid=ImgRaw&r=0">
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/safran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safran" /></a></p><br><br>
+
+
+
 
 <!-- Badges Markdown - https://github.com/Ileriayo/markdown-badges -->
