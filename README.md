@@ -2,7 +2,7 @@
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=QuantumCoderPro&label=Profile%20views&color=0e75b6&style=flat" alt="QuantumCoderPro" />
 <br> -->
 
-<h3 align="center">Software Engineering Undergraduate 💻❤️</h3>
+<h3 align="center">Software Engineer💻❤️</h3>
 </br>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <!-- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="330" align="right"> -->
 
-- 📘 I'm a third year student pursuing a Bachelor of Software Engineering at **Open University of Sri Lanka**.
+- 📘 Completed Bachelor of Software Engineering at **Open University of Sri Lanka**.
 - 💻 I'm currently working on **Full-Stack Development**.
 - 😍 I'm looking to **collaborate with other developers for knowledge sharing**.
 - 🎯 2023 Goals: **Contribute more to innovative tech projects**.
