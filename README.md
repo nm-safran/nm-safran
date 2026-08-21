@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated gradient header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:22c55e,100:facc15&height=250&section=header&text=SAFRAN%20MHD&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20•%20MERN%20Enthusiast&descAlignY=55&descSize=18&descColor=e5e7eb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:22c55e,100:facc15&height=250&section=header&text=SAFRAN%20MHD&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20•%20Full-Stack%20Developer%20&descAlignY=55&descSize=18&descColor=e5e7eb" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=650&height=50&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+MERN+Developer;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Turning+Coffee+Into+Code+%E2%98%95;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=650&height=50&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Turning+Coffee+Into+Code+%E2%98%95;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,7 +34,7 @@ name: Safran Mohamed
 role: Software Engineer
 education: BSc (Hons) Software Engineering — Open University of Sri Lanka
 currently_building: Full-Stack Web Applications
-currently_learning: MERN Stack, Cloud & DevOps
+currently learning: AI, ML, Cloud & DevOps
 collaboration: Open to knowledge-sharing with fellow devs
 goal_2025: Contribute more to innovative tech projects
 fun_fact: I love turning ideas into real-life projects
